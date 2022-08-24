@@ -11,6 +11,7 @@ int somatorio(int num) {
       soma += i;
     }
   }
+  print("resultado e:");
   print(soma);
   return soma;
 }

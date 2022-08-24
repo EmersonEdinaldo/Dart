@@ -13,7 +13,7 @@
     *     choco install dart-sdk
 5. Instalar no Vscode a extensão Dart
 
-    ![Imagem_01](img/extensao.jpeg)
+    ![Imagem_01](https://github.com/EmersonEdinaldo/Dart/blob/main/Img/comandocd.jpeg)
 
 6. Instalar o GitBash
 
